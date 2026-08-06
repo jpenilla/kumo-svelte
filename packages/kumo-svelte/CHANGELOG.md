@@ -1,5 +1,11 @@
 # kumo-svelte
 
+## 0.9.2
+
+### Patch Changes
+
+- cb3324b: Improve Combobox and Autocomplete parity with Bits UI primitives, including keyboard navigation, disabled state, multi-value handling, and updated prop documentation. Contributed by Teddy (@uhteddy).
+
 ## 0.9.1
 
 ### Patch Changes
